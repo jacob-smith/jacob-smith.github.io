@@ -1,0 +1,4 @@
+Add sidebar content to about page, but not as sidebar.
+
+Fix CV link.
+
