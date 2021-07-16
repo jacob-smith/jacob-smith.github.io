@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 **Links**
+
 For a (hopefully) full and (hopefully) up-to-date CV, please see here: [Full CV](https://docs.google.com/document/d/113rhVV6A4y7ox7r--CR_EeLmeXzqWglQHD9-91S5a2k/edit?usp=sharing)
 
 <!--
