@@ -10,17 +10,24 @@ redirect_from:
 {% include base_path %}
 **Links**
 
-For a (hopefully) full and (hopefully) up-to-date CV, please see here: [Full CV](https://docs.google.com/document/d/113rhVV6A4y7ox7r--CR_EeLmeXzqWglQHD9-91S5a2k/edit?usp=sharing)
+For a (hopefully) up-to-date CV, please see here: [Full CV](https://docs.google.com/document/d/113rhVV6A4y7ox7r--CR_EeLmeXzqWglQHD9-91S5a2k/edit?usp=sharing)
 
-<!--
-**The remainder of this page will be a summary that I will do my best to keep updated**
+**The remainder of this page will be a summary that I will do my best to keep updated (currently still a WIP)**
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Natural Sciences, University of Cambridge, 2018-2021
+* MSc in Science And Technology In Society, University of Edinburgh, 2021-2022 (ongoing)
 
+Research experience
+======
+* Summer 2021: Research Fellow, Cambridge Existential Risks Initiative (ongoing)
+  * 8 weeks of full-time work researching genomic surveillance for pandemic preparedness.
+
+* Spring 2021: Volunteer Research Assistant, DrugScience
+  * 4 weeks of part-time work investigating the rescheduling of psilocybin to treat end-of-life depression.
+
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
