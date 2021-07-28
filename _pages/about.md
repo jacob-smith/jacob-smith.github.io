@@ -13,4 +13,4 @@ I'm a Masters student doing [Science and Technology in Society](https://www.sps.
 
 My main research interests are in catastrophic biorisk and pandemics, and I'm also into in science communication and drug policy.
 
-Feel free to get in touch via any of the links on the left, or at jac<!--dfjadf-->ob@sm<!--.com-->ithbog<!-- fdasfa@sda.com -->ush.co.uk .
+Feel free to get in touch via any of the links on the left, or using the form on the contact page.
