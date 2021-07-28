@@ -15,12 +15,12 @@ For a (hopefully) up-to-date CV, please see here: [Full CV](https://docs.google.
 **The remainder of this page will be a summary that I will do my best to keep updated (currently still a WIP)**
 
 Education
-======
+------
 * BA in Natural Sciences, University of Cambridge, 2018-2021
 * MSc in Science And Technology In Society, University of Edinburgh, 2021-2022 (ongoing)
 
 Research experience
-======
+------
 * Summer 2021: Research Fellow, Cambridge Existential Risks Initiative (ongoing)
   * 8 weeks of full-time work researching genomic surveillance for pandemic preparedness.
 
