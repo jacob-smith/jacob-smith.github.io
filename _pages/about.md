@@ -13,4 +13,4 @@ I'm a Masters student doing [Science and Technology in Society](https://www.sps.
 
 My main research interests are in catastrophic biorisk and pandemics, and I'm also into in science communication and drug policy.
 
-I'm currently undertaking a Research Fellowship with the [Cambridge Existential Risks Initiative](camxrisk.org), looking into genomic surveillance for pandemic avoidance.
+I'm currently undertaking a Research Fellowship with the [Cambridge Existential Risks Initiative](https://camxrisk.org/), looking into genomic surveillance for pandemic avoidance.
