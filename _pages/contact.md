@@ -1,4 +1,3 @@
-<!-- Link for respones: https://app.getform.io/forms/29893 -->
 ---
 layout: archive
 title: "Contact"
@@ -39,3 +38,5 @@ redirect_from:
 -->          
           <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+
+<!-- Link for respones: https://app.getform.io/forms/29893 -->
