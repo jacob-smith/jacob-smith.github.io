@@ -1,4 +1,5 @@
-Add sidebar content to about page, but not as sidebar.
+Fix sidebar-nobio stuff (have sidebar on the about page, without the bio section).
 
-Fix CV link.
+Add content to pages.
 
+Dark mode toggle???
