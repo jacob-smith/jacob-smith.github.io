@@ -16,4 +16,4 @@ I recently completed a research fellowship with the [Cambridge Existential Risks
 
 The other pages on this site are currently under construction.
 
-Website built based on the [academicpages](https://academicpages.github.io) template.
+<font size="2"> Website built based on the [academicpages](https://academicpages.github.io) template. </font>
