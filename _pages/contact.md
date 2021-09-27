@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /contact
 ---
+This form is basically only here because I wanted to see if I could - the links on the left are a much better way to contact me.
+
 
 <form accept-charset="UTF-8" action="https://getform.io/f/22388921-713e-4067-b753-4a688e3b6c26" method="POST" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
