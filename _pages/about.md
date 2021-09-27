@@ -14,6 +14,9 @@ My main research interests are in catastrophic biorisk and pandemics, and I'm al
 
 I recently completed a research fellowship with the [Cambridge Existential Risks Initiative](https://camxrisk.org/), looking into genomic surveillance for pandemic avoidance.
 
-The other pages on this are currently under construction.
+
+
+
+The other pages on this site are currently under construction.
 
 Website built based on the [academicpages](academicpages.github.io) template.
