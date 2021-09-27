@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Work in progress**
+<!--
 **Links**
 
 For a (hopefully) up-to-date CV, please see here: [Full CV](https://docs.google.com/document/d/113rhVV6A4y7ox7r--CR_EeLmeXzqWglQHD9-91S5a2k/edit?usp=sharing)
@@ -26,7 +28,7 @@ Research experience
 
 * Spring 2021: Volunteer Research Assistant, DrugScience
   * 4 weeks of part-time work investigating the rescheduling of psilocybin to treat end-of-life depression.
-
+--->
 <!--
 Work experience
 ======
