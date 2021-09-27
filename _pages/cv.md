@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 **Work in progress**
+
 <!--
 **Links**
 
@@ -29,6 +30,7 @@ Research experience
 * Spring 2021: Volunteer Research Assistant, DrugScience
   * 4 weeks of part-time work investigating the rescheduling of psilocybin to treat end-of-life depression.
 --->
+
 <!--
 Work experience
 ======
