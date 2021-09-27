@@ -1,10 +1,10 @@
 {% include base_path %}
 
-{% if page.author_profile_nobio or layout.author_profile_nobio or page.sidebar %}
+{% if page.author_profile_nobio or layout.author_profile_nobio or page.sidebar-nobio %}
   <div class="sidebar sticky">
   {% if page.author_profile_nobio or layout.author_profile_nobio %}{% include author-profile-nobio.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
+  {% if page.sidebar-nobio %}
+    {% for s in page.sidebar-nobio %}
       {% if s.image %}
         <img src=
         {% if s.image contains "://" %}
@@ -17,8 +17,8 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
+    {% if page.sidebar-nobio.nav %}
+      {% include nav_list nav=page.sidebar-nobio.nav %}
     {% endif %}
   {% endif %}
   </div>
