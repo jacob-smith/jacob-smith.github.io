@@ -12,7 +12,7 @@ I'm currently doing a Masters in [Science and Technology in Society](https://www
 
 My main research interests are in catastrophic biorisk and pandemics, and I'm also into in science communication and drug policy.
 
-I recently completed a research fellowship with the [Cambridge Existential Risks Initiative](https://camxrisk.org/), looking into genomic surveillance for pandemic avoidance.
+I recently completed a research fellowship with the [Cambridge Existential Risks Initiative](https://camxrisk.org/), looking into genomic surveillance for pandemic avoidance - you can watch my presentation [here](https://youtu.be/vacMPy5N_2k).
 
 The other pages on this site are currently under construction.
 
