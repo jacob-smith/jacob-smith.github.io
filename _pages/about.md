@@ -14,6 +14,5 @@ My main research interests are in science policy, especially regarding pandemics
 
 I recently completed a research fellowship with the [Cambridge Existential Risks Initiative](https://camxrisk.org/), looking into genomic surveillance for pandemic avoidance - you can watch my presentation [here](https://youtu.be/vacMPy5N_2k).
 
-The other pages on this site are currently under construction.
 
 <font size="2" color="5D6C7C"> Website built based on the <a href="https://academicpages.github.io">academicpages</a> template. </font>
