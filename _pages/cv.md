@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Work in progress**
+**Under construction**
 
 <!--
 **Links**
