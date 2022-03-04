@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 **Academic**
+## Academic 
 
-Recent essay titles include "To what extent do Foucault's ideas of governmentality and biopolitcs explain modern approaches to pandemic risk?", "How can sociological theories best explain DIY technology and its value in society?", and "What role does STS have to play in combatting vaccine hesitancy?".
-
+Recent essay titles include:
+* To what extent do Foucault's ideas of governmentality and biopolitics explain modern approaches to pandemic risk?
+* How can sociological theories best explain DIY technology and its value in society?
+* What role does STS have to play in combatting vaccine hesitancy?".
 I have also written about assorted pharmacology topics.
 
 Please get in touch if you're interested in hearing more or reading any of these.
