@@ -17,9 +17,9 @@ Please get in touch if you're interested in hearing more or reading any of these
 
 **Policy**
 
-My policy brief arguing for stronger genomic surveillance in the UK can be viewed [here](https://docs.google.com/document/d/1_ZqWnbcLZP18Us9kxUI1Pr0_DSBb5ajHHPCTkp3bNms/edit?usp=sharing){:target="_blank"} (written for [CERI](https://camxrisk.org/){:target="_blank"}'s Summer Research Fellowship).
+For the [Buchanan Institute](https://www.buchananinst.org/){:target="_blank"}, I have co-authored a policy paper discussing improving policy communication in times of crisis - this is due to be published soon.
 
-For the [Buchanan Institute], I have co-authored a policy paper discussing improving policy communication in times of crisis - this is due to be published soon.
+My policy brief arguing for stronger genomic surveillance in the UK can be viewed [here](https://docs.google.com/document/d/1_ZqWnbcLZP18Us9kxUI1Pr0_DSBb5ajHHPCTkp3bNms/edit?usp=sharing){:target="_blank"} (written for [CERI](https://camxrisk.org/){:target="_blank"}'s Summer Research Fellowship).
 
 
 **Journalism**
