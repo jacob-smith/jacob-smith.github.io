@@ -13,6 +13,7 @@ Recent essay titles include:
 * To what extent do Foucault's ideas of governmentality and biopolitics explain modern approaches to pandemic risk?
 * How can sociological theories best explain DIY technology and its value in society?
 * What role does STS have to play in combatting vaccine hesitancy?".
+
 I have also written about assorted pharmacology topics.
 
 Please get in touch if you're interested in hearing more or reading any of these.
@@ -29,7 +30,7 @@ My policy brief arguing for stronger genomic surveillance in the UK can be viewe
 
 I [co-authored an article](https://www.varsity.co.uk/opinion/20589){:target="_blank"} in Varsity arguing that Cambridge's May Week should become a force for positive social change.
 
-I've written some [short news articles](https://issuu.com/eusci/docs/issue_29_print/s/14622927){:target="_blank"}) for Edinburgh's science magazine EuSci, as well as a longer feature article about patient contributions to medical knowledge for BlueSci, the Cambridge science magazine (forthcoming).
+I've written some [short news articles](https://issuu.com/eusci/docs/issue_29_print/s/14622927){:target="_blank"} for Edinburgh's science magazine EuSci, as well as a longer feature article about patient contributions to medical knowledge for BlueSci, the Cambridge science magazine (forthcoming).
 
 <!--
 **Academic work**
