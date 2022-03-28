@@ -11,7 +11,7 @@ author_profile: true
 Recent essay titles include:
 * To what extent do Foucault's ideas of governmentality and biopolitics explain modern approaches to pandemic risk?
 * How can sociological theories best explain DIY technology and its value in society?
-* What role does STS<div title="Science and Technology Studies">STS</div> have to play in combatting vaccine hesitancy?
+* What role does <div title="Science and Technology Studies">STS</div> have to play in combatting vaccine hesitancy?
 
 I have also written about assorted pharmacology topics.
 
