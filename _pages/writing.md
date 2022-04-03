@@ -13,10 +13,6 @@ Recent essay titles include:
 * How can sociological theories best explain DIY technology and its value in society?
 * What role does STS (Science and Technology Studies) have to play in combatting vaccine hesitancy?
 
-I have also written about assorted pharmacology topics.
-
-Please get in touch if you're interested in hearing more or reading any of these.
-
 
 
 ## Policy
