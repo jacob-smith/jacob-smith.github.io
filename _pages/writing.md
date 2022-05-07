@@ -11,7 +11,8 @@ author_profile: true
 Recent essay titles include:
 * To what extent do Foucault's ideas of governmentality and biopolitics explain modern approaches to pandemic risk?
 * How can sociological theories best explain DIY technology and its value in society?
-* * What visions do people have for the democratisation of synthetic biology and why does this matter?
+* What visions do people have for the democratisation of synthetic biology and why does this matter?
+
 <!---
 * What role does STS (Science and Technology Studies) have to play in combatting vaccine hesitancy?
 * What challenges does the “digital” in “digital epidemiology” raise, and how can we approach these?
