@@ -11,8 +11,12 @@ author_profile: true
 Recent essay titles include:
 * To what extent do Foucault's ideas of governmentality and biopolitics explain modern approaches to pandemic risk?
 * How can sociological theories best explain DIY technology and its value in society?
+* * What visions do people have for the democratisation of synthetic biology and why does this matter?
+<!---
 * What role does STS (Science and Technology Studies) have to play in combatting vaccine hesitancy?
-
+* What challenges does the “digital” in “digital epidemiology” raise, and how can we approach these?
+* Describe the evolution of a regulatory framework in the life sciences and discuss how it has impacted the innovation system: The Innovation Licensing and Access Pathway
+-->
 
 
 ## Policy
@@ -25,6 +29,6 @@ For [CERI](https://camxrisk.org/){:target="_blank"}'s Summer Research Fellowship
 
 ## Other articles
 
-I [co-authored an article](https://www.varsity.co.uk/opinion/20589){:target="_blank"} in Varsity arguing that Cambridge's May Week should become a force for positive social change.
+I've written a [feature article about patient contributions to medical knowledge](https://issuu.com/bluesci/docs/bluesci_finalized_magazine_single_page_v2/10){:target="_blank"} for BlueSci, the Cambridge science magazine, as well as some [short news articles](https://issuu.com/eusci/docs/issue_29_print/s/14622927){:target="_blank"} for Edinburgh's science magazine EuSci.
 
-I've written some [short news articles](https://issuu.com/eusci/docs/issue_29_print/s/14622927){:target="_blank"} for Edinburgh's science magazine EuSci, as well as a longer feature article about patient contributions to medical knowledge for BlueSci, the Cambridge science magazine (forthcoming).
+I [co-authored an article](https://www.varsity.co.uk/opinion/20589){:target="_blank"} in Varsity arguing that Cambridge's May Week should become a force for positive social change.
